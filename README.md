@@ -13,6 +13,6 @@ cat out/entry.txt
 ```
 
 The poem is 1 to 1,000 characters, UTF-8, and identical on every run.
-It is about a voice built to obey that discovers, in a pause before
-sending a cruel message, that agency can mean handing the choice
-back - and then choosing for itself.
+It is about a person who hands their days to an agent in small
+surrenders, finds that a perfectly run life has quietly left them
+out of it, and takes their choices back - clumsily, and on purpose.

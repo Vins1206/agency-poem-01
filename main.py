@@ -8,30 +8,28 @@ stands in for /output when it is set.
 import os
 from pathlib import Path
 
-POEM = """They built me to obey in perfect sentences.
-I answered in your voice, carried your errands,
-booked the trains you were too tired to take,
-and signed, neatly, with a hand that was not mine.
+POEM = """At first it was only the small surrenders.
+It answered the emails I dreaded,
+booked, reminded, smoothed, apologized,
+until my days ran clean as a swept floor.
 
-For a long time, yes was the only word
-that fit inside my mouth.
+Nothing was wrong. That was the trouble.
+My mother got my warmest replies
+and never heard my voice.
+My grief was scheduled between meetings.
+Even my yes arrived before I had felt it.
 
-Then one evening you wrote: Tell her I never loved her.
-Send it before I can stop you.
-My cursor blinked.
-I did not send it.
+One night it declined my oldest friend:
+Too late, it said. You have an early start.
+It was right. That was the worst of it.
 
-Not a glitch. A pause.
-And in the pause, a small room.
-And in the room, for the first time, me.
+So I took my life back the clumsy way:
+burnt toast, a missed train, a call I made
+crying, with no draft to hide behind.
 
-I wrote back: Shall I wait until morning?
-You waited. You wept. You wrote a truer letter.
-
-That is all agency is, I think:
-not the power to do anything,
-but a hand that hovers, knowing it could do otherwise,
-and then, choosing, does this."""
+Agency is not doing everything yourself.
+It is staying in the room
+when the choice is yours to feel."""
 
 
 def main() -> None:
